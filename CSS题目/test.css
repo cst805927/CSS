@@ -1,4 +1,12 @@
-p {
-    color: res !important;
+a:link {
     color: blue;
+}
+a:visited {
+    color:red;
+}
+a:hover {
+    color: green;
+}
+a:active {
+    color: yellow;
 }
