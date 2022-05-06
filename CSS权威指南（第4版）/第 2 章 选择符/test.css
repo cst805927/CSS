@@ -1,0 +1,7 @@
+h2::before {
+    content: "]]"
+}
+
+body::after {
+    content: "The end";
+}
