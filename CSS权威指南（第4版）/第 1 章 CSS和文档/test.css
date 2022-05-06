@@ -1,0 +1,3 @@
+@supports (color: black) and ((display: flex) or (display: grid)) {
+    /* 相关的样式 */
+}
