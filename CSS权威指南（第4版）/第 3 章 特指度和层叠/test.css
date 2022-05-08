@@ -1,13 +1,6 @@
-h1 {
-    font-style: italic;
-    color: gray !important;
+p#bright {
+    color: silver;
 }
-
-.title {
+p {
     color: black;
-    background-color: silver;
-}
-
-* {
-    background: black !important;
 }
