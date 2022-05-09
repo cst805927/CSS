@@ -1,6 +1,4 @@
-body {
-    background: url(http://www.pix.web);/*正确*/
-}
-body {
-    background: url (http://www.pix.web);/*错误*/
+main {
+    color: gray;
+    border-color: currentColor;
 }
