@@ -1,4 +1,7 @@
-main {
-    color: gray;
-    border-color: currentColor;
+@supports (color:var(--custom)) {
+    /* 使用变量的样式 */
+}
+
+@supports (--custom:value) {
+    /* 替代样式 */
 }
